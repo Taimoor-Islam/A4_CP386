@@ -28,6 +28,19 @@ Finally, the Exit command can be used to exit the program.
 
 > Exit
 
+## Makefile
+The makefile included in this program can be used to compile and run this program.<br>
+you can type in 
+
+> make
+
+to simply compile the program, and you can type 
+
+> make run
+
+to run the file as well.<br>
+using make run to run the file will start off the address space with a default of 1048576 bytes of space (1 MB).
+
 ## License
 There is no license on this code. If you want to use it, you are free to do so.
 
